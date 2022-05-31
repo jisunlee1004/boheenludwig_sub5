@@ -2,7 +2,7 @@
 ul{list-style:none;}
 a{text-decoration:none; color:#000;}
 
-body{color:#333;height:2449px;font-family:'Noto';}
+body{color:#333;font-family:'Noto';}
 
 
 #header{width:100%; margin:0 auto;height:134px;background: url(../images/back.png) no-repeat center top;text-align:center;}
@@ -95,8 +95,8 @@ h5{margin-bottom: 10px;}
 
   .footerul{width: 1320px;margin: 0 auto;box-sizing: border-box;}
   .footerul li{float: left;}
-  .footerlogo{width:300px;height: 300px; margin: 85px 5px;position: relative;}
+  .footerlogo{width:300px;margin: 85px 5px;position: relative;}
   
   
-  .footertext{width:700px;height: 300px; color: #fff; margin-top:76px;margin-left: -7px;line-height:40px;}
-  .insta{width:220px;height: 300px; margin-top: 70px;}
+  .footertext{width:700px;color: #fff; margin-top:76px;margin-left: -7px;line-height:40px;}
+  .insta{width:220px; margin-top: 70px;}
